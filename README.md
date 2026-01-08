@@ -55,6 +55,7 @@ Counter-App/
 🙌 Connect With Me
 
 GitHub: https://github.com/curiousvaishnavi
+
 LinkedIn: https://www.linkedin.com/in/vaishnavidethe
 
 ⭐ If you found this project helpful, don’t forget to star the repo!
