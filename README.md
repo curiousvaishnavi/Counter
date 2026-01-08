@@ -44,7 +44,7 @@ Counter-App/
 
 🔗 Live Demo
 
-👉 Add your GitHub Pages / Live link here
+👉 https://curiousvaishnavi.github.io/Counter/
 
 📌 Future Improvements
 
